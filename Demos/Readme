@@ -1,3 +1,2 @@
-Contains demos of the plugin for multiple ROIs. The code is for single ROI only.
-In Oval1, you can see the plugin working on an shape specific ROI.
-In shapeless, you can see the plugin working on an amorphous shaped ROI.
+OD_segmentation contains the demo for segmentation of the optic disc using affine snakes in an edge-preserving gradient vector field.
+The plugin for the demo is provided as a .jar file.
