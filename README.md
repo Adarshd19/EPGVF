@@ -1,5 +1,6 @@
 # EPGVF
  This repository contains the implementation of the edge preserving gradient vector field(EPGVF). You can see the working demos when EPGVF works along with affine snakes. 
- # Citations
- Dey, Sidhartha, et al. "Automatic Segmentation of Optic Disc Using Affine Snakes in Gradient Vector Field." IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2019.
+# ImageJ setup with Eclipse IDE
+https://imagejdocu.tudor.lu/howto/plugins/the_imagej_eclipse_howto
+The link above is for linking Eclipse IDE with ImageJ through which we run our code
  
