@@ -22,6 +22,6 @@ with the plugin. Please update the java version for your ImageJ software to a mo
 This error appears if you did not put the system Independent class files into your ImageJ
 plugins folder
 * Error Message: java.lang.NullPointerException:
-This error appears if you did not put the template image file “OxiTemplate_OD.tif” into the
+This error appears if you did not put the template image file “OD.tif” into the
 workspace/IJ folder.
 
