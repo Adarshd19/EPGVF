@@ -3,7 +3,7 @@
 
 - Authors : Adarsh Djeacoumar, Rohit Maheshwari, J. R. Harish Kumar, Chandra Sekhar Seelamantula.
 - Code maintainer: J. R. Harish Kumar
-Email: harishj@iisc.ac.in, harish.jr@gmail.com, harishkumar.jr@manipal.edu
+- Email: harishj@iisc.ac.in, harish.jr@gmail.com, harishkumar.jr@manipal.edu
 
 # ImageJ setup with Eclipse IDE
 https://imagejdocu.tudor.lu/howto/plugins/the_imagej_eclipse_howto.
