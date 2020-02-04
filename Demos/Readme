@@ -1,2 +1,0 @@
-OD_segmentation.mp4 is a video demonstarting the segmentation of the optic disc using affine snakes in an edge-preserving gradient vector field.
-The plugin for the demo is provided as a .jar file (TESTPlugin_.jar).
