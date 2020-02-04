@@ -13,7 +13,7 @@ This link is for linking Eclipse IDE with ImageJ through which we run our code.
 # Installation
 - Add the “affine_snakes.class” file (find them in Java_ImageJ Class Files folder) into your ImageJ's plugins folder (path: workspace/IJ/plugins) irrespective of the OS specifications (Windows, Mac OSX, Linux).
 - On restarting ImageJ, you will find a new entry named “Affine_Snakes” under the plugins menu (Plugins>Affine Snakes).
-- Open any of the test oximetry images provided (find them in the Test_Oximetry_Images folder) and then run the “Affine Snakes” plugin.
+- Open any of the test optic disc images provided (find them in the Test_OD folder) and then run the “Affine Snakes” plugin.
 
 # Troubleshooting
 * Error Message: java.lang.UnsupportedClassVersionError: Bad version number in .class file..." This error message pops up when the java version used for your ImageJ is not compatible
