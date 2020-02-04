@@ -7,7 +7,7 @@ This link is for linking Eclipse IDE with ImageJ through which we run our code.
 # Requirements
 - ImageJ 1.51h or later on Java 1.7 (https://imagej.nih.gov/ij/docs/install/).
 - Eclipse IDE with Version: Kepler Service Release 2 or later.
-- Template Image (find OD.tif file in Template_Image folder) to be saved in
+- Template Image (find Template_OD.tif file in Template_Image folder) to be saved in
 “workspace/IJ” folder.
 
 # Installation
