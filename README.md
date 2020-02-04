@@ -1,6 +1,7 @@
 # EPGVF
  This repository contains the implementation of the edge preserving gradient vector field(EPGVF). You can see the working demos when EPGVF works for segmenting optic disc from fundus images along with affine snakes. 
-Authors : Adarsh Djeacoumar, Rohit Maheshwari, J. R. Harish Kumar, Chandra Sekhar Seelamantula
+
+-Authors : Adarsh Djeacoumar, Rohit Maheshwari, J. R. Harish Kumar, Chandra Sekhar Seelamantula.
 # Code maintainer: J. R. Harish Kumar
 Email: harishj@iisc.ac.in, harish.jr@gmail.com, harishkumar.jr@manipal.edu
 
